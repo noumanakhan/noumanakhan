@@ -8,80 +8,84 @@ Building scalable web applications, AI-powered products, and modern backend syst
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=750&lines=Full+Stack+AI+Engineer;MERN+%7C+Next.js+%7C+TypeScript;Python+%7C+FastAPI;LLMs+%7C+RAG+%7C+Agentic+AI;Building+Production+Ready+Applications"/>
 
-<br>
+<br><br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://noumank.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/noumanakhan)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello.devkhan@gmail.com)
+<a href="https://noumank.vercel.app" target="_blank">
+<img src="https://img.shields.io/badge/🌐_Portfolio-111827?style=for-the-badge&labelColor=000000&color=2563EB" />
+</a>
+
+<a href="https://linkedin.com/in/noumanakhan" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:hello.devkhan@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/noumanakhan1" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
 ---
 
-# About Me
+# 🚀 About Me
 
-I'm a **Full Stack AI Engineer** passionate about building scalable web platforms and AI-powered software.
+I'm a **Full Stack AI Engineer** passionate about designing scalable software and intelligent applications that solve real-world problems. My work spans modern web development, backend architecture, and AI-driven solutions, with hands-on experience building production-ready systems using **React, Next.js, TypeScript, Node.js, Python, and FastAPI**.
 
-- 💼 Full Stack Software Engineer
-- 🏛️ Core contributor to **Hunarmand Punjab**
-- 🤖 Building AI applications with **LLMs**, **RAG**, and **Agentic AI**
-- 🔐 Experienced in scalable REST APIs, authentication, and backend architecture
-- 🚀 Deploying production applications using **Docker**, **Nginx**, **PM2**, and **CI/CD**
-- 🎯 Currently focused on AI Engineering & Intelligent Automation
+I enjoy developing applications powered by **Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and Agentic AI**, while following clean architecture and performance-focused engineering practices. Alongside application development, I work with **Docker, Nginx, PM2, Linux, and CI/CD pipelines** to deploy and maintain reliable production environments. As a contributor to **Hunarmand Punjab**, I have worked on scalable platforms that serve real users and continue to expand my expertise in AI engineering and intelligent automation.
 
 ---
 
-# Technologies
+# 💻 Technologies
 
-`React` • `Next.js` • `Angular` • `TypeScript`
+### Frontend
+
+`React` • `Next.js` • `Angular` • `TypeScript` • `JavaScript` • `Tailwind CSS`
+
+### Backend
 
 `Node.js` • `Express.js` • `Python` • `FastAPI`
 
-`MongoDB` • `PostgreSQL` • `MySQL` • `Prisma`
+### Databases
 
-`Docker` • `Linux` • `Nginx` • `PM2` • `Git` • `CI/CD`
+`MongoDB` • `PostgreSQL` • `MySQL` • `Prisma ORM`
 
-`LLMs` • `RAG` • `Agentic AI` • `OpenAI API`
+### DevOps
 
----
+`Docker` • `Linux` • `Nginx` • `PM2` • `Git` • `GitHub Actions` • `CI/CD`
 
-# Featured Projects
+### AI
 
-## 🏛 Hunarmand Punjab
-
-Government digital platform for admissions, scholarships, laptop schemes, and student management.
-
-**Tech:** React • Node.js • Express • MongoDB • PostgreSQL
+`LLMs` • `OpenAI API` • `RAG` • `Agentic AI`
 
 ---
 
-## 🚚 NJA Trucking
-
-Enterprise logistics management platform featuring shipment tracking, dispatch operations, customer management, and analytics dashboards.
-
----
-
-## 📋 SaaS Project Management Tool
-
-Jira-inspired collaboration platform with Kanban boards, Prisma ORM, PostgreSQL, RBAC, and secure authentication.
-
----
-
-## 🛡 Student Complaint Management System
-
-Real-time complaint management system with JWT authentication, Socket.io, RBAC, notifications, and file uploads.
-
----
-
-# Let's Connect
+# 🤝 Let's Connect
 
 <div align="center">
 
-I'm always open to collaborating on **AI**, **Full Stack**, and **Open Source** projects.
+I'm always open to collaborating on **AI Products**, **Full Stack Applications**, and **Open Source Projects**.
 
-**📧 hello.devkhan@gmail.com**
+<br>
 
-[Portfolio](https://noumank.vercel.app) • [LinkedIn](https://linkedin.com/in/noumanakhan) • [GitHub](https://github.com/noumanakhan1)
+<a href="mailto:hello.devkhan@gmail.com">
+<img src="https://img.shields.io/badge/📧_hello.devkhan@gmail.com-181717?style=for-the-badge&labelColor=000000&color=EA4335"/>
+</a>
+
+<br><br>
+
+<a href="https://noumank.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/noumanakhan">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/noumanakhan1">
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
-this is my final readme but its link buttons are very normal , style the buttons premium for links
