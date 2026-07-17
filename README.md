@@ -25,8 +25,20 @@ Building scalable web applications, AI-powered products, and modern backend syst
 </div>
 
 ---
+# 📊 GitHub Analytics
+
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=noumanakhan&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=noumanakhan&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noumanakhan&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=noumanakhan&theme=algolia&no-frame=true&no-bg=true&row=1&column=4"/>
 
 </div>
