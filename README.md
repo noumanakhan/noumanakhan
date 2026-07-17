@@ -29,20 +29,36 @@ Building scalable web applications, AI-powered products, and modern backend syst
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=noumanakhan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=noumanakhan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
 
-<img height="170" src="https://streak-stats.demolab.com?user=noumanakhan&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noumanakhan&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noumanakhan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
+<br>
+
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=noumanakhan&theme=tokyo-night&hide_border=true" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=noumanakhan&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+<br>
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=noumanakhan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&margin-h=12&row=1&column=6" />
+
+</div>
+
+<br>
+
+# 📈 Profile Views
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=noumanakhan&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 
 </div>
