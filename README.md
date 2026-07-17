@@ -1,7 +1,5 @@
 <div align="center">
 
-# Hi, I'm Nouman A Khan 👋
-
 ### Full Stack AI Engineer
 
 Building scalable web applications, AI-powered products, and modern backend systems.
