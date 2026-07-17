@@ -57,27 +57,3 @@ I enjoy developing applications powered by **Large Language Models (LLMs), Retri
 `LLMs` • `OpenAI API` • `RAG` • `Agentic AI`
 
 ---
-
-# 🤝 Let's Connect
-
-<div align="center">
-
-I'm always open to collaborating on **AI Products**, **Full Stack Applications**, and **Open Source Projects**.
-
-<br>
-
-<a href="mailto:hello.devkhan@gmail.com">
-<img src="https://img.shields.io/badge/📧_hello.devkhan@gmail.com-181717?style=for-the-badge&labelColor=000000&color=EA4335"/>
-</a>
-
-<br><br>
-
-<a href="https://noumank.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/noumanakhan">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</div>
