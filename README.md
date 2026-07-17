@@ -10,7 +10,7 @@
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://yourportfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://noumank.vercel.app/).com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/noumanakhan)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:hello.devkhan@gmail.com)
 
@@ -24,20 +24,7 @@ I'm a **Full Stack AI Engineer** focused on developing scalable web platforms an
 
 Currently working with:
 
-- MERN Stack
-- Next.js
-- TypeScript
-- Python
-- FastAPI
-- LLM Applications
-- Agentic AI
-- Retrieval-Augmented Generation (RAG)
-- AI Automation
-- REST APIs
-- Docker
-- Nginx
-- PM2
-- CI/CD
+- MERN Stack- Next.js- TypeScript- Python- FastAPI- LLM Applications- Agentic AI- Retrieval-Augmented Generation (RAG)- AI Automation- REST APIs- Docker- Nginx- PM2- CI/CD
 
 ---
 
@@ -104,17 +91,6 @@ Real-time complaint management platform featuring JWT authentication, RBAC, live
 <img src="https://raw.githubusercontent.com/noumanakhan1/noumanakhan1/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
-
----
-
-# Current Focus
-
-- AI Agents
-- MCP
-- LangGraph
-- Production RAG
-- AI Automation
-- Scalable Backend Systems
 
 ---
 
