@@ -27,4 +27,4 @@ Building scalable web applications, AI-powered products, and modern backend syst
 ---
 # 📊 GitHub Analytics
 
-<div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=noumanakhan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" /> <img height="170" src="https://streak-stats.demolab.com?user=noumanakhan&theme=tokyonight&hide_border=true" /> </div> <div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noumanakhan&layout=compact&theme=tokyonight&hide_border=true" /> </div> <div align="center"> <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=noumanakhan&theme=tokyo-night&hide_border=true" />
+<img height="170" src="https://streak-stats.demolab.com?user=noumanakhan&theme=tokyonight&hide_border=true" /> </div> <div align="center"> </div> <div align="center"> <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=noumanakhan&theme=tokyo-night&hide_border=true" />
