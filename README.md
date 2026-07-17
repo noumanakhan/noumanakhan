@@ -12,7 +12,6 @@ Building scalable web applications, AI-powered products, and modern backend syst
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://noumank.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/noumanakhan)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/noumanakhan1)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello.devkhan@gmail.com)
 
 </div>
@@ -71,54 +70,6 @@ Jira-inspired collaboration platform with Kanban boards, Prisma ORM, PostgreSQL,
 ## 🛡 Student Complaint Management System
 
 Real-time complaint management system with JWT authentication, Socket.io, RBAC, notifications, and file uploads.
-
----
-
-# GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=noumanakhan1&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noumanakhan1&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=noumanakhan1&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# GitHub Summary
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=noumanakhan1&theme=tokyonight"/>
-
-</div>
-
-<div align="center">
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=noumanakhan1&theme=tokyonight"/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=noumanakhan1&theme=tokyonight"/>
-
-</div>
-
----
-
-# Current Focus
-
-- 🤖 AI Agents
-- 🧠 Large Language Models (LLMs)
-- 📚 Retrieval-Augmented Generation (RAG)
-- ⚡ AI Automation
-- 🐳 Docker & DevOps
-- ☁️ Cloud Deployment
-- 🚀 Backend Scalability
 
 ---
 
