@@ -27,10 +27,6 @@ Building scalable web applications, AI-powered products, and modern backend syst
 ---
 <div align="center">
 
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=noumanakhan&theme=tokyonight"/>
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=noumanakhan&theme=tokyonight&utcOffset=5"/>
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=noumanakhan&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=noumanakhan&theme=tokyonight"/>
 
 </div>
