@@ -33,27 +33,3 @@ I'm a **Full Stack AI Engineer** passionate about designing scalable software an
 I enjoy developing applications powered by **Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and Agentic AI**, while following clean architecture and performance-focused engineering practices. Alongside application development, I work with **Docker, Nginx, PM2, Linux, and CI/CD pipelines** to deploy and maintain reliable production environments. As a contributor to **Hunarmand Punjab**, I have worked on scalable platforms that serve real users and continue to expand my expertise in AI engineering and intelligent automation.
 
 ---
-
-# 💻 Technologies
-
-### Frontend
-
-`React` • `Next.js` • `Angular` • `TypeScript` • `JavaScript` • `Tailwind CSS`
-
-### Backend
-
-`Node.js` • `Express.js` • `Python` • `FastAPI`
-
-### Databases
-
-`MongoDB` • `PostgreSQL` • `MySQL` • `Prisma ORM`
-
-### DevOps
-
-`Docker` • `Linux` • `Nginx` • `PM2` • `Git` • `GitHub Actions` • `CI/CD`
-
-### AI
-
-`LLMs` • `OpenAI API` • `RAG` • `Agentic AI`
-
----
