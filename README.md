@@ -26,19 +26,23 @@ Building scalable web applications, AI-powered products, and modern backend syst
 
 ## 👋 About Me
 
-I'm **Nouman A Khan**, a **Full Stack AI Engineer** focused on building scalable web applications, intelligent AI systems, and production-ready backend architectures.
+I'm **Nouman A Khan**, a **Full Stack AI Engineer** with experience building production applications across the **MERN and PERN stacks**, with a growing focus on **Python backend engineering and AI/LLM systems**.
 
-My engineering journey combines **full-stack development with modern AI engineering**, allowing me to build applications that are not only functional and scalable, but also capable of leveraging LLMs and intelligent workflows.
+My engineering journey combines **full-stack development with modern AI engineering**, allowing me to build applications that are not only scalable and maintainable, but also capable of leveraging **LLMs, RAG pipelines, vector search, and agentic workflows** to solve real-world problems.
+
+I enjoy working across the stack — from building modern interfaces with **React, Next.js, and TypeScript**, to designing scalable APIs and backend systems with **Node.js, Express, Python, and FastAPI**, and integrating intelligent AI capabilities into production applications.
 
 ### What I Work With
 
-- 🤖 **AI Engineering** — LLMs, RAG, Agentic AI & Prompt Engineering
-- 🧠 **AI Applications** — Intelligent assistants, document intelligence & AI workflows
-- ⚡ **Backend Engineering** — Python, FastAPI, Node.js & REST APIs
-- 🌐 **Frontend Engineering** — React, Next.js, TypeScript & modern UI systems
-- 🗄️ **Data & Search** — PostgreSQL, MongoDB, pgvector & vector search
-- 🔐 **Application Security** — JWT, RBAC & secure API architecture
-- 🚀 **Deployment & Infrastructure** — Docker, Linux, Nginx, VPS & CI/CD
+* 🤖 **AI Engineering** — LLMs, RAG, Agentic AI, LangChain, Prompt Engineering & AI-powered workflows
+* 🧠 **AI Applications** — Customer-service chatbots, document intelligence, embeddings, semantic search & intelligent assistants
+* ⚡ **Backend Engineering** — Python, FastAPI, Node.js, Express.js, REST APIs, Socket.io & asynchronous systems
+* 🌐 **Frontend Engineering** — React.js, Next.js, TypeScript, JavaScript, Tailwind CSS & Bootstrap
+* 🗄️ **Databases & ORM** — PostgreSQL, MongoDB, MySQL, SQLite, Prisma ORM & SQLAlchemy
+* 🔎 **Vector Search** — pgvector, Qdrant, FAISS, embeddings & semantic similarity search
+* 🔐 **Application Security** — JWT, RBAC, Bcrypt, input validation & secure API architecture
+* 🚀 **Deployment & Infrastructure** — Docker, Nginx, PM2, Linux/Ubuntu, VPS, Vercel & CI/CD
+* 🛠️ **Development Tools** — Git, GitHub, Cursor AI, GitHub Copilot, Claude & ChatGPT
 
 ### Engineering Philosophy
 
